@@ -41,8 +41,64 @@ All avatars are **512 × 512 PNG** with a transparent background.
 <td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Male/custom.png" title="Right-click → Copy link address">📋 Copy</a></td>
 <td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Male/custom.png">⬇️ Download</a></td>
 </tr>
+<tr>
+<td align="center"><img src="../Avatars/Office/Male/hr.png" width="96" alt="HR"></td>
+<td><b>HR</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Male/hr.png" title="Right-click → Copy link address">📋 Copy</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Male/hr.png">⬇️ Download</a></td>
+</tr>
+<tr>
+<td align="center"><img src="../Avatars/Office/Male/sales.png" width="96" alt="Sales"></td>
+<td><b>Sales</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Male/sales.png" title="Right-click → Copy link address">📋 Copy</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Male/sales.png">⬇️ Download</a></td>
+</tr>
 </table>
 
 ## Female
 
-_Coming soon._
+<table>
+<tr><th>Avatar</th><th>Role</th><th>Link</th><th>Download</th></tr>
+<tr>
+<td align="center"><img src="../Avatars/Office/Female/owner.png" width="96" alt="Owner"></td>
+<td><b>Owner</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/owner.png" title="Right-click → Copy link address">📋 Copy</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/owner.png">⬇️ Download</a></td>
+</tr>
+<tr>
+<td align="center"><img src="../Avatars/Office/Female/manager.png" width="96" alt="Manager"></td>
+<td><b>Manager</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/manager.png" title="Right-click → Copy link address">📋 Copy</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/manager.png">⬇️ Download</a></td>
+</tr>
+<tr>
+<td align="center"><img src="../Avatars/Office/Female/employee.png" width="96" alt="Employee"></td>
+<td><b>Employee</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/employee.png" title="Right-click → Copy link address">📋 Copy</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/employee.png">⬇️ Download</a></td>
+</tr>
+<tr>
+<td align="center"><img src="../Avatars/Office/Female/guest.png" width="96" alt="Guest"></td>
+<td><b>Guest</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/guest.png" title="Right-click → Copy link address">📋 Copy</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/guest.png">⬇️ Download</a></td>
+</tr>
+<tr>
+<td align="center"><img src="../Avatars/Office/Female/custom.png" width="96" alt="Custom"></td>
+<td><b>Custom</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/custom.png" title="Right-click → Copy link address">📋 Copy</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/custom.png">⬇️ Download</a></td>
+</tr>
+<tr>
+<td align="center"><img src="../Avatars/Office/Female/hr.png" width="96" alt="HR"></td>
+<td><b>HR</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/hr.png" title="Right-click → Copy link address">📋 Copy</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/hr.png">⬇️ Download</a></td>
+</tr>
+<tr>
+<td align="center"><img src="../Avatars/Office/Female/sales.png" width="96" alt="Sales"></td>
+<td><b>Sales</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/sales.png" title="Right-click → Copy link address">📋 Copy</a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Female/sales.png">⬇️ Download</a></td>
+</tr>
+</table>
