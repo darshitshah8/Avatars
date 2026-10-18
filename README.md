@@ -1,43 +1,33 @@
 # Avatars
 
-Avatars for personal use.
+A free collection of cartoon-style avatars for apps, profiles and team pages. The artwork was **created with AI**, then cleaned up and cut into single images.
 
-Every avatar is a **512 × 512 PNG** with a transparent background: a coloured circle with the character inside. There's a little empty space around the circle so that extras like the Owner's crown fit.
+- Every avatar is a **512 × 512 PNG** with a transparent background, so it looks clean on any colour.
+- **Preview** every avatar on its list page.
+- **Copy the link** to use an image straight in your app, for example in `<img src="...">`.
+- **Download** one image, or the **whole set as a ZIP**.
 
-## Folders
+## Collections
 
-```
-office/
-  male/
-    owner.png
-    manager.png
-    employee.png
-    guest.png
-    custom.png
-  female/        (planned)
-sources/         original sheets the avatars were cut from
-tools/           script that cuts a sheet into single avatars
-```
+| Collection | Avatars | Download | Preview |
+|---|---|---|---|
+| **Office Avatars**<br><img src="Avatars/Office/Male/owner.png" width="40"> <img src="Avatars/Office/Male/manager.png" width="40"> <img src="Avatars/Office/Male/employee.png" width="40"> <img src="Avatars/Office/Male/guest.png" width="40"> <img src="Avatars/Office/Male/custom.png" width="40"> | Owner, Manager, Employee, Guest, Custom | [📦 Download ZIP](https://github.com/darshitshah8/Avatars/raw/main/Avatars/Office/office-avatars.zip) | [👀 View](List/office.md) |
+| _More avatars_ | _Coming soon_ | — | — |
 
-Use them like this:
+## Example
 
-```
-https://raw.githubusercontent.com/darshitshah8/Avatars/main/office/male/owner.png
+```html
+<img src="https://raw.githubusercontent.com/darshitshah8/Avatars/main/Avatars/Office/Male/manager.png" width="64" alt="Manager">
 ```
 
-## Planned
+## Folder layout
 
-- `office/female/` – the same five roles in a female version
-- More roles for both sets, such as `hr.png`, `sales.png`, `accounts.png`, `support.png` and `admin.png`
-
-## Adding a new sheet
-
-1. Save the sheet image in `sources/` (for example `sources/office-female.webp`).
-2. In `tools/extract_avatars.py`, set the search box and the banner top for each avatar in `AVATARS`.
-3. Run:
-
-   ```
-   python tools/extract_avatars.py sources/office-female.webp office/female
-   ```
-
-The script fits each circle, removes the name banner by extending the clothes downward, keeps anything that sticks out above the circle (like the crown), and saves the result as a PNG.
+```
+Avatars/
+  Office/
+    Male/      owner.png, manager.png, employee.png, guest.png, custom.png
+    Female/    coming soon
+    office-avatars.zip
+List/
+  office.md    preview, copy link and download for every Office avatar
+```
